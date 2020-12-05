@@ -11,7 +11,7 @@ end = round((number ** 0.5) + 0.5)
 
 #### search function, dont change ####
 t1 = time.perf_counter()
-if start % 2 != 0:
+if start % 2 == 0:
     print("start number has to be odd!")
 for i in range(how_many_to_search+1):
     ran_num = random.randrange(start, end+1, 2)
