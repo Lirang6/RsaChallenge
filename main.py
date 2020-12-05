@@ -90,8 +90,5 @@ def evaluate_formula(formula):
         print (eval(formula))
 
 # Press the green button in the gutter to run the script.
-evaluate_formula(" + * 5 - 9 3 + 5 / 10 2 ")
+evaluate_formula(" whats up flash ")
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-
-
-Whats up Flashhhhhh ?!
