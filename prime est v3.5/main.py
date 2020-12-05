@@ -22,4 +22,3 @@ for i in range(how_many_to_search+1):
                     print(ran_num, div_num)
 t2 = time.perf_counter()
 print ("run time:",t2-t1)
-## hello flash
